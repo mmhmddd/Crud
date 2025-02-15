@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+    color: red;
+    padding: 10px;
+    font-size: 4rem;
+    span{
+        color: blue;
+    }
+}
+label{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: red;
+}
+input,textarea{
+    border: blue solid 1px !important;
+    color: blue !important;
+}
